@@ -1,0 +1,15 @@
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\WebApiProject.Service.exe.config
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\WebApiProject.Service.exe
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\WebApiProject.Service.pdb
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\EntityFramework.dll
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\WebApiProject.DAL.exe
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\WebApiProject.DAL.pdb
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\WebApiProject.DAL.exe.config
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\EntityFramework.xml
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\obj\Debug\WebApiProject.Service.csprojResolveAssemblyReference.cache
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\obj\Debug\WebApiProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\obj\Debug\WebApiProject.Service.csproj.CopyComplete
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\obj\Debug\WebApiProject.Service.exe
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.Service\obj\Debug\WebApiProject.Service.pdb

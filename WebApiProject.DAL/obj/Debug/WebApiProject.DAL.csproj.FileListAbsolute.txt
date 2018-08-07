@@ -1,0 +1,14 @@
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\WebApiProject.DAL.exe.config
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\WebApiProject.DAL.exe
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\WebApiProject.DAL.pdb
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.csproj.CopyComplete
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.exe
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.pdb
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.Migrations.InitialMigration.resources
+C:\Users\Thembalethukhoza\Desktop\Project\WebApiProject\WebApiProject.DAL\obj\Debug\WebApiProject.DAL.csproj.GenerateResource.cache
